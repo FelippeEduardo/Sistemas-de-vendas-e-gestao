@@ -1,1 +1,8 @@
-# Sistemas-de-vendas-e-gestao
+# Sistemas-de-vendas-gestao 📊
+
+## Requisitos
+
+### python
+### streamlit 
+### pandas 
+### plotly
